@@ -1,0 +1,11 @@
+What purpose does a WSN serve?
+
+Why use an ad-hoc network for self-driving vehicles and UWSNs?
+
+What is the security issue? Why should there be any concern?
+
+Give an example of an attack scenario.
+
+How could the above scenario be prevented?
+
+What will the general public gain from this research?
