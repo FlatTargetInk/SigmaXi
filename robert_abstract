@@ -1,0 +1,2 @@
+Managing network traffic is difficult when on a network made of strangers. One common problem is not being able to trust the nodes on the network.
+Authentication is difficult in the first place but when on a network made up of strangers (like an ad-hoc network), this difficulty greatly increases. Challenges include defending against attackers pretending to be someone else (masquerading), an attacker acting as multiple users (sybil attack), and still allowing legitimate users access to the network and its resources.
