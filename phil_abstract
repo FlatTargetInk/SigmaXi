@@ -1,0 +1,23 @@
+What purpose does a WSN serve?
+
+In the underwater domain, a network of sensor nodes which communicate with eachother can be used for purposes such as collecting statistcal data (temperature, tide and currents, fish activity, etc.), monitoring industrial activity, and relaying locational coordinates of military deployments.
+
+Why use an ad-hoc network for self-driving vehicles and UWSNs?
+
+The vast and unpredictable nature of the ocean draws a need for a wide network, consisting of various sub-networks and types of devices which collect data in different ways for different purposes. An infrastructure-based network would be highly impractical and in some situations technically impossible to use; ad-hoc networks are cheaper and 
+
+What is the security issue? Why should there be any concern?
+
+As UWSNs are used for not only general environmental and industrial purposes, but for the military as well, an attack on a UWSN of large-scale could harm the integrity of warfare tactics, and also be very expensive. These networks are relatively new technology, especially ones which include autonomous underwater vehicles (AUVs), making them a target for hackers and those with malicious intent.
+
+Give an example of an attack scenario.
+
+In a scenario where underwater wireless sensors are communicating using encryption, an attacker could record packets being sent, and use them to send fake messages to nodes, either causing them to operate in a certain way, or forcing them to deny service to other nodes, rendering them useless in the network.
+
+How could the above scenario be prevented?
+
+Better authentication.
+
+What will the general public gain from this research?
+
+With security comes peace of mind.
